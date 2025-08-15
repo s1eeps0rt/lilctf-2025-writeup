@@ -13,3 +13,7 @@ https://r1.pub/s/lilctf-2025-WriteUp.pdf
 
 ## Crypto
 
+
+脚本略多
+
+https://r1.pub/s/lilctf-crypto-sage-exp.zip
